@@ -77,14 +77,6 @@ Create key at: https://console.cloud.google.com
 
 ---
 
-## Screens
-
-| Home / Scan | Logs | Map |
-|-------------|------|-----|
-| *(Insert Screenshot)* | *(Insert Screenshot)* | *(Insert Screenshot)* |
-
----
-
 ## Limitations
 
 - App is a controller, not a native scanner (Expo limitations)
