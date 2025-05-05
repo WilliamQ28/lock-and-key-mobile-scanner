@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "nmapScanner",
+    "slug": "nmapScanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+      "googleMapsApiKey": "AIzaSyA6reutuFKKvHqyC60oLUYHfw1XmiEIUJc"
+    }
+  },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyA6reutuFKKvHqyC60oLUYHfw1XmiEIUJc"
+      }
+    }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
